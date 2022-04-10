@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 #chengiing
+# changing
 mu=3
 n=30
 
